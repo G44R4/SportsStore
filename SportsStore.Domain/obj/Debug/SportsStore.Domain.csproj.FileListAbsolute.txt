@@ -35,4 +35,3 @@ C:\Users\n.haverova\documents\visual studio 2017\Projects\SportsStore\SportsStor
 C:\Users\n.haverova\documents\visual studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\n.haverova\documents\visual studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\n.haverova\documents\visual studio 2017\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.ValueTuple.xml
-C:\Users\n.haverova\documents\visual studio 2017\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
